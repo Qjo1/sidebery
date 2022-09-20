@@ -1411,7 +1411,7 @@ export const setupPageTranslations: Translations = {
   'settings.move_new_tab_parent': {
     en: 'Place new tab opened from another tab',
     ru: 'Открытые из другой вкладки',
-    de: 'Platziere Tab, das von anderem Tab geöffnete wird',
+    de: 'Platziere Tab, das von anderem Tab geöffnet wird',
     zh_CN: '从其它标签页打开的新标签页的位置',
   },
   'settings.move_new_tab_parent_before': {
@@ -2331,7 +2331,7 @@ export const setupPageTranslations: Translations = {
   'settings.auto_menu_multi_sel': {
     en: 'Automatically open context menu on right-button multi-selection',
     ru: 'Автоматически открывать контекстное меню при множественном выборе правой кнопкой',
-    de: 'Bei Rechtsklick Mehrfachauswahl automatisch Kontextmenü öffnen',
+    de: 'Bei Mehrfachauswahl mit der rechten Maustaste automatisch Kontextmenü öffnen',
   },
   'settings.auto_menu_multi_sel_note': {
     en: 'Only for non-native context menu',
@@ -2341,12 +2341,12 @@ export const setupPageTranslations: Translations = {
   'settings.multiple_middle_close': {
     en: 'Use multi-selection when closing tabs using middle-click',
     ru: 'Использовать множественный выбор при закрытии вкладок средней кнопкой мыши',
-    de: 'Verwenden Sie die Mehrfachauswahl, wenn Sie Tabs mit einem Mittelklick schließen',
+    de: 'Beim Schließen von Tabs mit mittlerer Maustaste Mehrfachauswahl ermöglichen',
   },
   'settings.multiple_middle_close_note': {
     en: 'Selected tabs will be closed on releasing the button',
     ru: 'Выбранные вкладки будут закрыты при отпускании кнопки',
-    de: 'Ausgewählte Registerkarten werden beim Loslassen der Schaltfläche geschlossen',
+    de: 'Ausgewählte Tabs werden beim Loslassen der Taste geschlossen',
   },
   'settings.long_click_delay': {
     en: 'Long click delay (ms)',
@@ -2579,7 +2579,7 @@ export const setupPageTranslations: Translations = {
 
   'settings.mouse.new_tab_button_title': {
     en: 'New Tab button actions',
-    de: 'Aktionen für neue Tab-Schaltflächen',
+    de: 'Aktionen mit "Neuer Tab"-Schaltflächen',
     ru: 'Взаимодействия с кнопкой "Новая вкладка"',
     zh_CN: '新选项卡按钮操作',
   },
@@ -2591,13 +2591,13 @@ export const setupPageTranslations: Translations = {
   },
   'settings.mouse.new_tab_action_new_child': {
     en: 'open new child tab',
-    de: 'Öffnen Sie eine neue Unterregisterkarte',
+    de: 'Neuen untergeordneten Tab öffnen',
     ru: 'открыть новую дочернюю вкладку',
     zh_CN: '打开新的子标签',
   },
   'settings.mouse.new_tab_action_reopen': {
     en: 'apply container or URL',
-    de: 'Container oder URL anwenden',
+    de: 'Umgebung oder URL anwenden',
     ru: 'применить контейнер или URL',
     zh_CN: '应用容器或 URL',
   },
